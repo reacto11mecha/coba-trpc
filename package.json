@@ -25,6 +25,10 @@
   "dependencies": {
     "@trpc/client": "^9.25.3",
     "@trpc/server": "^9.25.3",
+    "@typegoose/typegoose": "^9.9.0",
+    "mongoose": "6.3.5",
+    "mongoose-autopopulate": "^0.16.1",
+    "nanoid": "3.x.x",
     "zod": "^3.17.3"
   }
 }
